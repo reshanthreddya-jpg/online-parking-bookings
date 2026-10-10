@@ -1,0 +1,21 @@
+{
+  "name": "smart-parking-system",
+  "version": "1.0.0",
+  "description": "Full-Stack MERN Smart Parking Management System",
+  "scripts": {
+    "start:backend": "cd backend && node server.js",
+    "start:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "smart-parking",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "iot-parking"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
